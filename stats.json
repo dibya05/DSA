@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
-  "currentStreak": 1,
+  "totalSolved": 5,
+  "currentStreak": 2,
   "maxStreak": 2,
-  "lastSyncDate": "2026-07-07",
+  "lastSyncDate": "2026-07-08",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -14,14 +14,16 @@
     "LeetCode_Roman_to_Integer": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Valid_Anagram": true,
-    "LeetCode_Reverse_Words_in_a_String": true
+    "LeetCode_Reverse_Words_in_a_String": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
   "activityHistory": {
     "2026-07-04": 1,
     "2026-07-05": 2,
-    "2026-07-07": 1
+    "2026-07-07": 1,
+    "2026-07-08": 1
   },
   "todayProblems": [
-    "Reverse Words in a String"
+    "Remove Nth Node From End of List"
   ]
 }
